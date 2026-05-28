@@ -1,0 +1,41 @@
+.navbar-brand, .navbar .logo {
+  padding-left: 20px !important;  /* 왼쪽 안쪽 여백을 20픽셀 띄웁니다 */
+  margin-left: 10px !important;   /* 필요 시 바깥 여백도 살짝 더 밀어줍니다 */
+}
+
+figure figcaption, 
+figure h4, 
+.figure-caption {
+  font-weight: normal !important; /* 볼드 해제 */
+  font-size: 1rem !important;   /* 본문보다 살짝 작게 조절하여 가독성 확보 */
+  color: #555555 !important;      /* 진한 회색 */
+}
+
+/* ==========================================
+  모든 본문 영역 및 불릿 리스트 양끝 정렬
+   ========================================== */
+.article-style p, 
+.article-style li, 
+.article-style li p,
+.article-style td,
+.page-body p, 
+.page-body li, 
+.page-body li p,
+.page-body td,
+.universal-wrapper p, 
+.universal-wrapper li,
+.universal-wrapper li p,
+.universal-wrapper td,
+.markdown-block p,
+.markdown-block li,
+.markdown-block td,
+li,
+li p,
+td,
+figcaption,
+figure figcaption,
+figure h4,
+.figure-caption {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
