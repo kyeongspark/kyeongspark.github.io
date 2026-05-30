@@ -31,7 +31,7 @@ sections:
       subtitle: ''
       text: |-
         ### Journal Publications
-        1. **Park, K.**, Chung, H., Seo, H., & Jun, S. C. (2026). Intensity-dependent tACS entrainment effects in a cortical microcircuit: A computational study. *Scientific Reports*. https://doi.org/10.1038/s41598-026-37594-9
+        1. **Park, K.**, Chung, H., Seo, H., & Jun, S. C. (2026). Intensity-dependent tACS entrainment effects in a cortical microcircuit: A computational study. *Scientific Reports*. <br> https://doi.org/10.1038/s41598-026-37594-9
 
         ### Conference Proceedings
         * **C1.** **Park, K.**, Chung, H., Im, C., & Jun, S. C. (2023). Entrainment effects upon synaptically connected microcircuit in transcranial alternating current stimulation. In *Proceedings of 2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)*.
@@ -74,7 +74,7 @@ sections:
 
         #### Computer Vision Projects (Fall 2022)
         * **Image Harmonization:** Constructed a convolutional neural network using instance normalization (IN) and region-aware adaptive instance normalization (RAIN) for image harmonization with PyTorch.
-        * **Structure from Motion:** Reconstructs three-dimensional structures from images taken from different viewpoints using camera calibration, feature extraction/matching, essential matrix estimation/decomposition, and triangulation with MATLAB.
+        * **Structure from Motion:** Reconstructs three-dimensional structures from images taken from different viewpoints using camera calibration, feature extraction & matching, essential matrix estimation & decomposition, and triangulation with MATLAB.
 
         #### Artificial Intelligence Projects (Spring 2022)
         * Designed intelligent agents for the Pacman project in Python using adversarial search techniques, including Minimax and Alpha-Beta Pruning.
