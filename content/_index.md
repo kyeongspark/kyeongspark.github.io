@@ -23,21 +23,21 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📝 Publications & Proceedings'
       subtitle: ''
       text: |-
-        ### Journal Publications
+        #### Journal Publications
         1. **Park, K.**, Chung, H., Seo, H., & Jun, S. C. (2026). Intensity-dependent tACS entrainment effects in a cortical microcircuit: A computational study. *Scientific Reports*. <br> https://doi.org/10.1038/s41598-026-37594-9
 
-        ### Conference Proceedings
+        #### Conference Proceedings
         * **C1.** **Park, K.**, Chung, H., Im, C., & Jun, S. C. (2023). Entrainment effects upon synaptically connected microcircuit in transcranial alternating current stimulation. In *Proceedings of 2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)*.
         * **C2.** **Park, K.**, Chung, H., Im, C., & Jun, S. C. (2021). Investigation of electric field direction sensitivity on cortical neuron activation. In *Proceedings of 2021 International Biomedical Engineering Conference (IBEC)*. (*Oral Presentation, Silver Prize in Best Paper Award*)
 
-        ### Conference Abstracts
+        #### Conference Abstracts
         * **A1.** **Park, K.**, & Jun, S. C. (2025). Computational investigation of neural entrainment induced by transcranial alternating current stimulation incorporating ongoing endogenous oscillations. At *6th International Brain Stimulation Conference*.
         * **A2.** **Park, K.**, Chung, H., Im, C., & Jun, S. C. (2023). Investigation of transcranial alternating current stimulation effects on an ongoing neural oscillation in a synaptically connected cortical microcircuit model. At *5th International Brain Stimulation Conference*.
     design:
