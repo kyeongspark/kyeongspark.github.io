@@ -9,12 +9,13 @@ status:
   icon: "☕️"
 role: Computational Neuroscientist
 bio: |
-  A highly motivated B.S. student in computer science and mathematics with expertise in neuron modeling, 
+  A highly motivated Ph.D. student in computer science and mathematics with expertise in neuron modeling, 
   computational neuroscience, and algorithm development. Developed strong communication and leadership skills 
   through diverse academic, research, and teaching experiences.
 
 affiliations:
-  - name: "Gwangju Institute of Science and Technology"
+  - name: "McGill University"
+  - name: "Integrated Program in Neuroscience"
   - name: "Email: kyeongspark0108@gmail.com"
 
 links:
@@ -32,6 +33,9 @@ interests:
   - "Neuromodulation"
 
 education:
+  - degree: PhD Neuroscience
+    institution: McGill University
+    start: January 2027
   - degree: BS Computer Science
     institution: GIST
     start: May 2019
@@ -83,11 +87,24 @@ languages:
   - name: English
     level: 5
     label: Fluent (TOEFL iBT 5.5/6.0)
+  - name: French
+    level: 1
+    label: Basic (DELF A1)
   - name: Spanish
-    level: 2
-    label: Basic (CEFR A2)
+    level: 1
+    label: Basic (CEFR A1)
 
 awards:
+  - title: International Differential Fee Award
+    awarder: Integrated Program in Neuroscience, McGill University
+    date: "2026"
+    summary: "Awarded CAD 16,732 per year for 3 years reducing tuition fees to the Quebec resident rate for qualified international graduate students"
+    icon: 💵
+  - title: McGill IPN Recruitment Award
+    awarder: Integrated Program in Neuroscience, McGill University
+    date: "2026"
+    summary: "Awarded CAD 5,000 for showing high academic standing and research potential"
+    icon: 💵
   - title: Outstanding Undergraduate Thesis Award
     awarder: GIST College
     date: "2025"
